@@ -10,3 +10,4 @@ here is what i uploaded here :
 * MicroSD connector : TFP09-2-12B
 * Phone DPDT Switch
 * RJHS5381 : Connector, RJ45 with Leds, (Ethernet), Thru-Hole
+* SM712TC : SM712 transient voltage suppressor diode (TVS diode)
