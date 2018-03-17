@@ -4,10 +4,17 @@ this is my altium library .
 
 here is what i uploaded here :
 
-* Circular_Pin_connector
+* 2N2907A : a pnp transistor by SOT 23 footprint
 * DS3231_module
-* smd inductor : RH127 inductor 12*12*7 (100uH)
+* Header 2 : by footprint of JP circular 2
+* Header 5 : by footprint of JP circular 5
+* inductor : smd inductor RH127 inductor 12*12*7 (100uH)
+* LED
+* LEDBAR-10 
 * MicroSD connector : TFP09-2-12B
 * Phone DPDT Switch
+* Relay-SPDT : this is misceleneous relay by improved footprint
 * RJHS5381 : Connector, RJ45 with Leds, (Ethernet), Thru-Hole
 * SM712TC : SM712 transient voltage suppressor diode (TVS diode)
+* SS36 : Surface Mount Schottky Barrier Rectifier
+* SW-PB-RED : this is a big key
