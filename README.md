@@ -18,3 +18,7 @@ here is what i uploaded here :
 * SM712TC : SM712 transient voltage suppressor diode (TVS diode)
 * SS36 : Surface Mount Schottky Barrier Rectifier
 * SW-PB-RED : this is a big key
+* smd cap electrolyte : 16 V 100 uF 6.3 x 5.9 mm
+
+
+(some useful pcb footprint from easyelectronic website copied   ----->  http://easyelectronic.altervista.org/footprint-altium/?doing_wp_cron=1523419794.1241369247436523437500)
