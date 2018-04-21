@@ -2,7 +2,7 @@ Hello
 
 this is my altium library .
 
-here is what i uploaded here :
+some of important footprints in this packeage :
 
 * 2N2907A : a pnp transistor by SOT 23 footprint
 * DS3231_module
@@ -19,6 +19,6 @@ here is what i uploaded here :
 * SS36 : Surface Mount Schottky Barrier Rectifier
 * SW-PB-RED : this is a big key
 * smd cap electrolyte : 16 V 100 uF 6.3 x 5.9 mm
-
+* ...
 
 (some useful pcb footprint from easyelectronic website copied   ----->  http://easyelectronic.altervista.org/footprint-altium/?doing_wp_cron=1523419794.1241369247436523437500)
