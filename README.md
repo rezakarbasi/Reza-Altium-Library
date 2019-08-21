@@ -24,4 +24,4 @@ some of important footprints in this packeage :
 (some useful pcb footprint from easyelectronic website copied   ----->  http://easyelectronic.altervista.org/footprint-altium/?doing_wp_cron=1523419794.1241369247436523437500)
 
 
-you can add some other file into the .SchLib and .PcbLib and compile so as to have a output library file on Project Output folder .
+**you can add some other file into the .SchLib and .PcbLib and compile so as to have a output library file on Project Output folder .**
